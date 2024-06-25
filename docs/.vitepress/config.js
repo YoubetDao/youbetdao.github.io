@@ -18,6 +18,10 @@ module.exports = {
               text: "Use Cases",
               link: "/introduction/use-cases",
             },
+            {
+              text: "Vision",
+              link: "/introduction/vision",
+            }
           ],
         },
         {
