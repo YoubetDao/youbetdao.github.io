@@ -27,7 +27,10 @@ module.exports = {
         {
           text: "Contract",
           items: [
-            // TODO: Add explain for GST rules.
+            {
+              text: "How GDT works?",
+              link: "/contract/how-gdt-works",
+            },
             {
               text: "GST Contract ABI",
               link: "/contract/abi",
