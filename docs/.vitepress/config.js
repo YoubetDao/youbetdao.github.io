@@ -1,5 +1,12 @@
+import mathjax3 from "markdown-it-mathjax3";
+
 module.exports = {
   title: "YouBet-DAO",
+  markdown: {
+    config: (md) => {
+      md.use(mathjax3);
+    },
+  },
   themeConfig: {
     sidebar: {
       "/": [
@@ -28,11 +35,11 @@ module.exports = {
           text: "Contract",
           items: [
             {
-              text: "How GDT works?",
-              link: "/contract/how-gdt-works",
+              text: "How GDS works?",
+              link: "/contract/how-gds-works",
             },
             {
-              text: "GST Contract ABI",
+              text: "GDS Contract ABI",
               link: "/contract/abi",
             },
           ],

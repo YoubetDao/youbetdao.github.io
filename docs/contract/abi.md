@@ -1,5 +1,5 @@
 
-# GST Contract ABI
+# GDS Contract ABI
 
 This document provides detailed information about the ABI of the Bet smart contract. The contract facilitates goal-driven staking, offering two types of goals: Solo and Gambling. Users can create goals, stake tokens, confirm task completions, claim rewards, and settle goals.
 

@@ -6,6 +6,12 @@ A groundbreaking programmable staking framework ensuring every effort is rewarde
 
 - [You Bet: Goal-Driven Staking Is All You Need](./introduction/introduction)
 - [Use Cases](./introduction/use-cases)
+- [Vision](./introduction/vision)
+
+## Contract
+- [How GDS works](./contract/how-gds-works)
+- [ABI](./contract/abi)
+
 
 ## Quick Start
 

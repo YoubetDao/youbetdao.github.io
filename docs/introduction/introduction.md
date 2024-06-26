@@ -12,3 +12,5 @@ Users commit to achieving a goal by staking a certain amount of funds. They are 
 This form is widely prevalent in the web2 world. For examples, see [use cases](use-cases).
 
 However, it is in the web3 world where this form truly belongs. And **You-Bet** makes it easy for anyone to build such systems, ensuring every effort is rewarded fairly.
+
+Learn [How GDS works?](../contract/how-gds-works.md) to see our current progress.

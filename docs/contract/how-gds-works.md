@@ -15,10 +15,10 @@ One type involves only a single participant. The purpose of staking is to ensure
 The other type is more intriguing. It creates a competitive environment for the same type of goal, defining a concept of goal completion. This allows participants who come closer to achieving their goals to receive rewards. This type of staking meets a broad range of needs.
 
 - **Solo Staking**
-  - $$reward = staking - fee$$
+  $$reward = staking - fee$$
 - **Gambling Staking**
-  - $$sum\_staking = \sum_{i=1}^n staking_i$$
-  - $$reward_i = sum\_staking\ * \ (staking_i * finished_i \ / \ \sum_{i=1}^n (staking_i \ * \ finished_i)) - fee$$
+  $$sum\_staking = \sum_{i=1}^n staking_i$$
+  $$reward_i = sum\_staking\ * \ (staking_i * finished_i \ / \ \sum_{i=1}^n (staking_i \ * \ finished_i)) - fee$$
 
 ## Goal Types
 
@@ -28,7 +28,7 @@ The other type is more intriguing. It creates a competitive environment for the 
   - Such as completing a goal of reducing body fat to 15%
 - **Multiple Task Completion within a Specified Time**
   - Such as completing a course that includes several independent chapters, calculating goal completion based on chapter completion
-- **No Time Limit**
+- **Single Task with No Time Limit**
 
 ## Settlement Trigger
 
@@ -39,4 +39,5 @@ The other type is more intriguing. It creates a competitive environment for the 
 
 Any time within the claim period, a claim system fee will be deducted from the rewards.
 
+# Learn more
 You can learn more about the specific invocation methods through the [ABI documentation](abi).
