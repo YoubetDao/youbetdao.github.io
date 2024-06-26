@@ -1,6 +1,6 @@
 # Our Vision
 
-At YouBet, our vision is simple yet profound: **to make every effort worth it**. We aim to create a system where every contribution, no matter how small, is recognized and rewarded fairly. This goes beyond just betting; we envision a world where a GitHub commit, a valuable document contribution, and any other form of effort can be recorded and valued appropriately.
+At YouBet, our vision is simple yet profound: **to make every effort worth it**. We aim to create a system where every contribution, no matter how small, is recognized and rewarded fairly. This goes beyond just betting; we envision a world where a GitHub commit, a valuable document, and any other form of effort can be recorded and valued appropriately.
 
 ## The Journey Ahead
 
