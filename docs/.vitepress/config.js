@@ -45,8 +45,8 @@ module.exports = {
           ],
         },
         {
-          text: "Quick Start",
-          items: [{ text: "Hello, World!", link: "/quickstart/hello-world" }],
+          text: "SDK",
+          items: [{ text: "API", link: "/sdk/api" }],
         },
       ],
     },

@@ -13,6 +13,5 @@ A groundbreaking programmable staking framework ensuring every effort is rewarde
 - [ABI](./contract/abi)
 
 
-## Quick Start
-
-- [Hello, World!](./quickstart/hello-world)
+## SDK
+- [Api](./sdk/api)
