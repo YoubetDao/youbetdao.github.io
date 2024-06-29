@@ -51,6 +51,10 @@ module.exports = {
             { text: "API", link: "/sdk/api" },
           ],
         },
+        {
+          text: "Team",
+          items: [{ text: "Contact", link: "/team/contact" }],
+        },
       ],
     },
   },
