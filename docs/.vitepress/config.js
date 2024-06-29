@@ -46,7 +46,10 @@ module.exports = {
         },
         {
           text: "SDK",
-          items: [{ text: "API", link: "/sdk/api" }],
+          items: [
+            { text: "Quickstart", link: "/sdk/quickstart" },
+            { text: "API", link: "/sdk/api" },
+          ],
         },
       ],
     },
