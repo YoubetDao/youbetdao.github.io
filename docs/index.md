@@ -8,7 +8,7 @@ A groundbreaking programmable staking framework ensuring every effort is rewarde
   - Live demonstration of [sample code](https://github.com/YoubetDao/youbet-sdk/tree/main/examples/simple-react) available in our SDK source code. You can run it by yourself.
 - [YouBet Admin](https://youbet-admin.vercel.app/goals)
   - Admin dashboard with different levels of authority for tourists, Linea wallet holders, and goal creators
-- [YouBet GM](http://121.40.102.77:5000/)
+- [YouBet GM](https://youbet-gm.vercel.app/)
   - An application powered by the [YouBet SDK](https://www.npmjs.com/package/youbet-sdk) designed to help you wake up early and check in. The source code is available [here](https://github.com/YoubetDao/youbet-gm).
 
 
